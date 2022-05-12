@@ -1,4 +1,4 @@
-# Web Toy Project : 🎥 Study English with Movies
+# HTML/CSS/Javascript Toy Project : 🎥 Study English with Movies
 <p>
 I started this to practice what I learned(HTML, CSS, JS) long time ago. <br>
 But I turned my mind to become a Backend Developer and I'm still learning JAVA-JDBC(now here)-JSP-SPRING.<br>
